@@ -1,4 +1,4 @@
-# codequiz
+# Code Quiz
 
 Play this quick coding quiz, it's all about JavaScript!
 
